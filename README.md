@@ -15,9 +15,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  csharp, dotnet, android, kotlin, docker
 </p>
 
 - 📃 I blog here: https://yqbrad.ir

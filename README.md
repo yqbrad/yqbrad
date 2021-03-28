@@ -3,7 +3,7 @@
 
 <h3 align="center">You can reach me at</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/+++" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-yaqubi-rad-a41153198" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
 </p>

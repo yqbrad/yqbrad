@@ -18,7 +18,7 @@
   csharp, dotnet, android, kotlin, docker
 </p>
 
-- 📃 I blog here: https://yqbrad.ir
+- 📃 I blog here: https://yqbrad.github.io/
 - 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing.
 </br>
 

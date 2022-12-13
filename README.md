@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">I'm Mohammad Yaghubi Rad 😎</h1>
+<h1 align="center">I'm Mohammad Yaghoubi Rad 😎</h1>
 
 <h3 align="center">You can reach me at</h2>
 <p align="center">
